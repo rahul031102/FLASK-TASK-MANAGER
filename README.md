@@ -3,7 +3,8 @@
 A clean and minimal **To-Do web application** built using **Flask** and **SQLAlchemy**.  
 You can easily add, edit, and delete tasks — all stored locally in SQLite.
 
----
+ (simple README for portfolio)
+
 ## 🚀 Features
 - ➕ Add tasks  
 - ✏️ Edit tasks  
@@ -15,6 +16,17 @@ You can easily add, edit, and delete tasks — all stored locally in SQLite.
 - **SQLite (SQLAlchemy)**  
 - **HTML + CSS**
 ---
+- 🎨 Simple and responsive UI  
+
+---
+
+## 🧰 Tech Stack
+- **Python (Flask)**  
+- **SQLite (via SQLAlchemy)**  
+- **HTML + CSS**
+
+---
+
 ## 👨‍💻 Author
 Created by [**Rahul Kumar**](https://github.com/rahul031102)  
 Built with ❤️ using Flask and SQLAlchemy.
